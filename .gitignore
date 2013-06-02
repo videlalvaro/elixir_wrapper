@@ -1,0 +1,5 @@
+elixir_wrapper-git
+build
+dist
+ebin
+hash.mk
